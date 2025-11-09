@@ -50,6 +50,6 @@ Copiar código
 http://localhost:8080
 👩‍💻 Desenvolvido por  Daniela Giovana
 💼 Técnica em Desenvolvimento de Sistemas
-🌐 linkedin.com/in/danielagiovana
+🌐https://www.linkedin.com/in/daniela-giovana-da-silva-875244354/
 
 
