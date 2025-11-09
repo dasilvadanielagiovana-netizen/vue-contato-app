@@ -37,16 +37,11 @@ src/
 
 ## ⚙️ Como Executar o Projeto
 
-1. Clone este repositório:
- git clone https://github.com/danigiovana/vue-contato-app.git
 Acesse a pasta do projeto:
-
-
 cd vue-contato-app
 Instale as dependências:
 npm install
 Inicie o servidor de desenvolvimento:
-
 npm run serve
 Abra em seu navegador:
 
